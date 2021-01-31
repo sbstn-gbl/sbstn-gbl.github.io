@@ -5,7 +5,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'About', path: 'menu', url: 'about.html'}
+- {name: 'About', path: '.', url: 'index.html'}
 - {name: 'Publications', path: 'menu', url: 'publications.html'}
 - {name: 'Teaching', path: 'menu', url: 'teaching.html'}
 - {name: 'Education', path: 'menu', url: 'education.html'}
@@ -21,9 +21,6 @@ social:
 pagination:
   next_page: 'Newer'
   previous_page: 'Older'
-
 sharing_button_prompt: 'Feel free to share!'
-
 related_posts: 'You may also enjoy:'
-
 post_date_prefix: 'Written on'

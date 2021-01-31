@@ -19,7 +19,7 @@
 
 body {
   font-family: "Roboto Slab", Georgia, "Roboto", sans-serif;
-  font-size: 15px;
+  font-size: 13px;
   color: #515151;
   line-height: 1.65rem;
 }
@@ -82,7 +82,7 @@ hr {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 700px;
+  width: 630px;
 }
 
 /*48em*/
@@ -98,9 +98,9 @@ hr {
 */
 
 .masthead {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  margin-bottom: 3rem;
+  padding-top: 3.5rem;
+  padding-bottom: 1.0rem;
+  margin-bottom: 2.5rem;
   font-family: "Quattrocento Sans", sans-serif;
 }
 
@@ -139,7 +139,7 @@ hr {
 */
 
 .post-container {
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
 }
 
 .posts {
@@ -214,7 +214,7 @@ hr {
 .footer {
   color: #999;
   text-align: center;
-  margin: 2rem;
+  margin: 2.0rem;
 }
 
 .footer a {
@@ -504,4 +504,16 @@ th, td {
 
 .fa-rss-square:hover {
 	color: #ff6600;
+}
+
+
+
+.Site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.Site-content {
+  flex: 1;
 }

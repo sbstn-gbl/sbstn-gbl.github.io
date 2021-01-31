@@ -36,11 +36,5 @@ Revision requested at _Journal of Retailing_
 Modelling Customer Heterogeneity in Deep Neural Networks <br>
 With Timoshenko A <br>
 
-<!--
-Analyzing State Dependence in Brand Choice Through Controlled Experiments <br>
-With Hitsch G, Misra S, and Guhl D <br>
--->
-
 The Impact of Personalization on Coupon Redemption Rates <br>
-With Guhl D and Klapper D <br>
-
+With Guhl D and Klapper D
