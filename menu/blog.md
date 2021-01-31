@@ -3,15 +3,8 @@ layout: page
 title: Blog
 ---
 
+
 <p>Coming soon</p>
-
-<p>
-&#8287;
-</p>
-
-<p>
-&#8287;
-</p>
 
 <!--
 <ul class="posts">
@@ -32,5 +25,3 @@ title: Blog
   {% endfor %}
 </ul>
 -->
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

@@ -3,6 +3,7 @@ layout: page
 title: Education
 ---
 
+
 __PhD in Marketing__ (summa cum laude) <br>
 10/2016 – 06/2019 <br>
 Humboldt University of Berlin, School of Business and Economics <br>
@@ -15,5 +16,3 @@ RWTH Aachen University, Chalmers University Gothenburg (2007)
 __Master's degree in Physics__ <br>
 10/2004 – 03/2010 <br>
 RWTH Aachen University, Chalmers University Gothenburg (2007)
-
-<br><br><br><br><br><br><br><br>
