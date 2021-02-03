@@ -10,7 +10,8 @@ title: About me
   </div>
 
   <p>I am a <a href="{{ site.baseurl }}{% link menu/teaching.md %}">lecturer</a> at
-  Humboldt University Berlin and Chief Artificial Intelligence Officer at SO1.</p>
+  Humboldt University Berlin and Chief AI Officer at my retail promotion personalization
+  start-up SO1.</p>
 
   <p>My <a href="{{ site.baseurl }}{% link menu/publications.md %}">research</a> is
   located at the intersection of quantitative marketing, machine learning and
@@ -24,9 +25,5 @@ title: About me
   scalable and automated marketing personalization. These marketing solutions have helped
   retailers to increase their revenue, return on advertising spend, and conversion
   rates.</p>
-
-  <p>My work with retailers and marketing solution providers enables me to build a
-  research agenda of high practical value. Industry partnerships open up the opportunity
-  to evaluate new methodologies in real-world settings.</p>
 
 </div>
