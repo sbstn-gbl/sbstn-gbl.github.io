@@ -41,8 +41,8 @@ Working paper, preparing submission
 Modeling Customer Heterogeneity in Deep Neural Networks <br>
 With Timoshenko A (Kellogg School of Management, Northwestern University)
 
-Revenue returns of Personalized Coupons <br>
+Revenue Returns of Personalized Coupons <br>
 With Hitsch G, Misra S (Booth School of Business, University of Chicago)
 
-Retail Assortment Optimization <br>
+Retail Assortment Optimization: A Deep-Learning Approach <br>
 With Ringel D (Kenan-Flagler Business School, University of North Carolina)
