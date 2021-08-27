@@ -6,10 +6,15 @@ title: Publications
 
 ### Journals
 
-Gabel S and Timoshenko A (2020) <br>
+Gabel S and Timoshenko A (2021) <br>
 Product Choice with Large Assortments: A Scalable Deep-Learning Model <br>
 _Management Science_ (forthcoming) <br>
-[Journal] [[Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3402471)
+[[Journal]](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.3969)
+
+Gabel S and Guhl D (2021) <br>
+Comparing the Effectiveness of Rewards and Individually Targeted Coupons in Loyalty Programs <br>
+_Journal of Retailing_ (forthcoming) <br>
+[Journal] [[Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3911157)
 
 Gabel S, Guhl D, and Klapper D (2019) <br>
 P2V-MAP: Mapping Market Structure for Large Assortments <br>
@@ -30,19 +35,18 @@ Finalist EMAC best paper award based on a doctoral dissertation
 
 ### Work in progress
 
-Gabel S and Guhl D (2020) <br>
-The Impact of Personalized Coupons on Loyalty Program Usage <br>
-Revision requested at _Journal of Retailing_
-
 The Impact of Personalization on Coupon Redemption Rates <br>
-With Guhl D and Klapper D <br>
-Working paper, preparing submission
+With Guhl D (Humboldt University of Berlin) <br>
+[Working paper]
 
 Modeling Customer Heterogeneity in Deep Neural Networks <br>
-With Timoshenko A (Kellogg School of Management, Northwestern University)
+With Timoshenko A (Kellogg School of Management, Northwestern University) <br>
+[Working paper]
 
 Revenue Returns of Personalized Coupons <br>
-With Hitsch G, Misra S (Booth School of Business, University of Chicago)
+With Hitsch G, Misra S (Booth School of Business, University of Chicago) <br>
+[Working paper]
 
 Retail Assortment Optimization: A Deep-Learning Approach <br>
-With Ringel D (Kenan-Flagler Business School, University of North Carolina)
+With Ringel D (Kenan-Flagler Business School, University of North Carolina) <br>
+[Working paper]
