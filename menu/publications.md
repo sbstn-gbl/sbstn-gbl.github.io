@@ -9,17 +9,17 @@ title: Publications
 Gabel S and Timoshenko A (2021) <br>
 Product Choice with Large Assortments: A Scalable Deep-Learning Model <br>
 _Management Science_ (forthcoming) <br>
-[[Journal]](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.3969)
+[[Journal]](https://doi.org/10.1287/mnsc.2021.3969)
 
 Gabel S and Guhl D (2021) <br>
 Comparing the Effectiveness of Rewards and Individually Targeted Coupons in Loyalty Programs <br>
 _Journal of Retailing_ (forthcoming) <br>
-[Journal] [[Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3911157)
+[[Journal]](https://doi.org/10.1016/j.jretai.2021.08.001)
 
 Gabel S, Guhl D, and Klapper D (2019) <br>
 P2V-MAP: Mapping Market Structure for Large Assortments <br>
 _Journal of Marketing Research_, 56(4), 557-580 <br>
-[[Journal]](https://journals.sagepub.com/doi/10.1177/0022243719833631)
+[[Journal]](https://doi.org/10.1177%2F0022243719833631)
 
 ### Proceedings (excerpt)
 
