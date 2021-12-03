@@ -9,9 +9,9 @@ title: About me
     <img src="/assets/img/portrait2.png" width="220">
   </div>
 
-  <p>I am a <a href="{{ site.baseurl }}{% link menu/teaching.md %}">lecturer</a> at
-  Humboldt University Berlin and Chief AI Officer at my retail promotion personalization
-  start-up SO1.</p>
+  <p>I am an <a href="{{ site.baseurl }}{% link menu/teaching.md %}">assistant
+  professor</a> at the Rotterdam School of Management, Erasmus University and the
+  Scientific Advisor at Schwarz Media Platform.</p>
 
   <p>My <a href="{{ site.baseurl }}{% link menu/publications.md %}">research</a> is
   located at the intersection of quantitative marketing, machine learning and
@@ -20,10 +20,9 @@ title: About me
   in Deep Learning that can be applied to promotion personalization, recommender systems,
   pricing, and assortment optimization in large-scale retailing settings.</p>
 
-  <p>In my industry work at SO1, I collaborate with leading marketing solution providers
-  and grocery retailers to design and implement advanced machine learning systems for
-  scalable and automated marketing personalization. These marketing solutions have helped
-  retailers to increase their revenue, return on advertising spend, and conversion
-  rates.</p>
+  <p>In my industry work, I collaborate with leading marketing solution providers and
+  grocery retailers to design and implement advanced machine learning systems for scalable
+  and automated marketing personalization. These marketing solutions have helped retailers
+  to increase their revenue, return on advertising spend, and conversion rates.</p>
 
 </div>
