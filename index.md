@@ -13,7 +13,7 @@ title: About me
   professor</a> at the Rotterdam School of Management, Erasmus University and the
   Scientific Advisor at Schwarz Media Platform.</p>
 
-  <p>My <a href="{{ site.baseurl }}{% link menu/publications.md %}">research</a> is
+  <p>My <a href="{{ site.baseurl }}{% link menu/research.md %}">research</a> is
   located at the intersection of quantitative marketing, machine learning and
   econometrics. I develop and validate new machine learning methods for modeling the
   behavior of individual customers. My current projects focus on methodological research
