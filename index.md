@@ -6,7 +6,7 @@ title: About me
 <div style="clear: both;">
 
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/portrait2.png" width="220">
+    <img src="/assets/img/portrait-2.png" width="220">
   </div>
 
   <p>I am an <a href="{{ site.baseurl }}{% link menu/teaching.md %}">assistant
