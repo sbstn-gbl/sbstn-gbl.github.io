@@ -11,7 +11,7 @@ title: About me
 
   <p>I am an <a href="{{ site.baseurl }}{% link menu/teaching.md %}">assistant
   professor</a> at the Rotterdam School of Management, Erasmus University and the
-  Scientific Advisor at Schwarz Media Platform.</p>
+  Scientific Advisor at the Schwarz Group.</p>
 
   <p>My <a href="{{ site.baseurl }}{% link menu/research.md %}">research</a> is
   located at the intersection of quantitative marketing, machine learning and

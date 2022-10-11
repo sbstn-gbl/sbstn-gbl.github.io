@@ -6,11 +6,11 @@ title: Research
 
 ### Journals
 
-Gabel S and Timoshenko A (2021). Product Choice with Large Assortments: A Scalable Deep-Learning Model. _Management Science_, 68(3):1808-1827. [[Journal]](https://doi.org/10.1287/mnsc.2021.3969)
+Gabel S and Guhl D (2022). Comparing the Effectiveness of Rewards and Individually Targeted Coupons in Loyalty Programs. _Journal of Retailing_, 98(3):395–411. [[Journal]](https://doi.org/10.1016/j.jretai.2021.08.001)
 
-Gabel S and Guhl D (2021). Comparing the Effectiveness of Rewards and Individually Targeted Coupons in Loyalty Programs. _Journal of Retailing_ (forthcoming). [[Journal]](https://doi.org/10.1016/j.jretai.2021.08.001)
+Gabel S and Timoshenko A (2021). Product Choice with Large Assortments: A Scalable Deep-Learning Model. _Management Science_, 68(3):1808–1827. [[Journal]](https://doi.org/10.1287/mnsc.2021.3969)
 
-Gabel S, Guhl D, and Klapper D (2019). P2V-MAP: Mapping Market Structure for Large Assortments. _Journal of Marketing Research_, 56(4), 557-580. [[Journal]](https://doi.org/10.1177%2F0022243719833631)
+Gabel S, Guhl D, and Klapper D (2019). P2V-MAP: Mapping Market Structure for Large Assortments. _Journal of Marketing Research_, 56(4), 557–580. [[Journal]](https://doi.org/10.1177%2F0022243719833631)
 
 
 ### Proceedings (excerpt)
@@ -22,18 +22,9 @@ Gabel S and Klapper D (2017). Embedding Products in Latent Attribute Spaces: Imp
 
 ### Working papers
 
-Gabel S and Guhl D (2022). Coupon Personalization in Retail Promotion Networks: Evidence from 809 Brand Campaigns. [Working paper]
+Gabel S and Ringel D (2022). Market Basket Analysis with Context-Aware Product Embeddings. [Working paper]
 
 Gabel S, Simester D, and Timoshenko A (2022). Using Purchase Rates To Identify Brands with Similar Treatment Effects. [Working paper]
 
+Gabel S and Guhl D (2022). Coupon Personalization in Retail Promotion Networks: Evidence from 809 Brand Campaigns. [Working paper]
 
-### Work in progress
-
-Modeling Customer Heterogeneity in Deep Neural Networks <br>
-With Timoshenko A (Kellogg School of Management, Northwestern University) <br>
-
-Revenue Returns of Personalized Coupons <br>
-With Hitsch G, Misra S (Booth School of Business, University of Chicago) <br>
-
-Retail Assortment Optimization: A Deep-Learning Approach <br>
-With Ringel D (Kenan-Flagler Business School, University of North Carolina) <br>
