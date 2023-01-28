@@ -10,7 +10,7 @@ Gabel S and Guhl D (2022). Comparing the Effectiveness of Rewards and Individual
 
 Gabel S and Timoshenko A (2021). Product Choice with Large Assortments: A Scalable Deep-Learning Model. _Management Science_, 68(3):1808–1827. [[Journal]](https://doi.org/10.1287/mnsc.2021.3969)
 
-Gabel S, Guhl D, and Klapper D (2019). P2V-MAP: Mapping Market Structure for Large Assortments. _Journal of Marketing Research_, 56(4), 557–580. [[Journal]](https://doi.org/10.1177%2F0022243719833631)
+Gabel S, Guhl D, and Klapper D (2019). P2V-MAP: Mapping Market Structure for Large Assortments. _Journal of Marketing Research_, 56(4), 557–580. [[Journal]](https://doi.org/10.1177%2F0022243719833631) [[GitHub]](https://github.com/sbstn-gbl/p2v-map)
 
 
 ### Proceedings (excerpt)
@@ -22,9 +22,11 @@ Gabel S and Klapper D (2017). Embedding Products in Latent Attribute Spaces: Imp
 
 ### Working papers
 
-Gabel S and Ringel D (2022). Market Basket Analysis with Context-Aware Product Embeddings. [Working paper]
+Gabel S, Simester D, and Timoshenko A (2023). Retail Media Platforms: Learning Treatment Effects Across Brands. [Working paper]
 
-Gabel S, Simester D, and Timoshenko A (2022). Using Purchase Rates To Identify Brands with Similar Treatment Effects. [Working paper]
+Gabel S and Ringel D (2023). Basket Representation Learning: The Swiss Army Knife of Market Basket Analysis. [Working paper]
+
+Gabel S, Molitor D, and Spann M (2023). The Effect of an Ad Ban on Retailer Sales: Insights from a Natural Experiment. [Working paper]
 
 Gabel S and Guhl D (2022). Coupon Personalization in Retail Promotion Networks: Evidence from 809 Brand Campaigns. [Working paper]
 

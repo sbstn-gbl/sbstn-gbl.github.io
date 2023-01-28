@@ -15,7 +15,7 @@ menu:
 social:
 - {icon: 'github', link: 'https://www.github.com/sbstn-gbl'}
 - {icon: 'orcid', link: 'https://orcid.org/0000-0003-3522-2263'}
-- {icon: 'envelope', link: 'mailto:sebastian.gabel@hu-berlin.de'}
+- {icon: 'envelope', link: 'mailto:gabel@rsm.nl'}
 - {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=5fqoqisAAAAJ'}
 
 pagination:

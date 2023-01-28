@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 
-### "Learning from Big Data" (Autumn 2021, BSc)
+### Learning from Big Data, BSc (2021/22, 2022/23)
 
 Every day, millions of consumers voice their opinions in product-review websites, blogs,
 and chat rooms. At the same time, retailers collect rich data sets that contain valuable
@@ -17,9 +17,9 @@ marketing problems by complementing classical econometric techniques with modern
 learning (ML) methods. Students learn the needed tools and conceptual frameworks needed to
 identify and exploit the opportunities that big data sources create.
 
-### "Machine Learning in Marketing: Theory and Applications" (WS 2020/21, MSc)
+### Machine Learning in Marketing: Theory and Applications, MSc (2020/21)
 
-I developed this MSc course for students from quantitative fields such as quantitative
+I developed this course for students from quantitative fields such as quantitative
 marketing, OR, economics, statistics and computer science in mind. The course prepares
 students in their last year of study for solving real-world marketing problems using
 modern quantitative methods. The course first reviews theoretical foundations in
