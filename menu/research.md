@@ -8,9 +8,9 @@ title: Research
 
 Gabel S and Guhl D (2022). Comparing the Effectiveness of Rewards and Individually Targeted Coupons in Loyalty Programs. _Journal of Retailing_, 98(3):395–411. [[Journal]](https://doi.org/10.1016/j.jretai.2021.08.001)
 
-Gabel S and Timoshenko A (2021). Product Choice with Large Assortments: A Scalable Deep-Learning Model. _Management Science_, 68(3):1808–1827. [[Journal]](https://doi.org/10.1287/mnsc.2021.3969)
+Gabel S and Timoshenko A (2022). Product Choice with Large Assortments: A Scalable Deep-Learning Model. _Management Science_, 68(3):1808–1827. [[Journal]](https://doi.org/10.1287/mnsc.2021.3969)
 
-Gabel S, Guhl D, and Klapper D (2019). P2V-MAP: Mapping Market Structure for Large Assortments. _Journal of Marketing Research_, 56(4), 557–580. [[Journal]](https://doi.org/10.1177%2F0022243719833631) [[GitHub]](https://github.com/sbstn-gbl/p2v-map)
+Gabel S, Guhl D, and Klapper D (2019). P2V-MAP: Mapping Market Structure for Large Assortments. _Journal of Marketing Research_, 56(4):557–580. [[Journal]](https://doi.org/10.1177%2F0022243719833631) [[GitHub]](https://github.com/sbstn-gbl/p2v-map)
 
 
 ### Proceedings (excerpt)
