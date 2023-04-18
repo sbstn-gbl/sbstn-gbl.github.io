@@ -4,8 +4,8 @@ title: Honors and Awards
 ---
 
 
-<p> 2022 EMAC–Sheth Foundation Sustainability Research Competition 2022, honorable mention</p>
-<p> ERIM Research Grant, 15,000 EUR (2022)</p>
+<p>2023 EMAC–Sheth Foundation Sustainability Research Competition 2022, honorable mention</p>
+<p>ERIM Research Grant, 15,000 EUR (2022)</p>
 <p>EHI Science Prize 2020, 1st place, Category Best Dissertation, 10,000 EUR</p>
 <p>Humboldt Prize 2020, Finalist, Category Best Dissertation</p>
 <p>EMAC 2017, Best Paper Based on a Doctoral Dissertation, Finalist</p>
