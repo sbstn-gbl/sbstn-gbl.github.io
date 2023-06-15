@@ -4,6 +4,24 @@ title: Teaching
 ---
 
 
+### Marketing Strategy in the Age of AI (2022/23)
+
+The marketing strategies business leaders, strategy consultants or entrepreneurs implement
+can make the difference between success and failure. In developing their marketing
+strategy, many firms rely on big data and marketing analytics. Successful managers must
+understand how big data and marketing analytics can inform marketing decisions. Such tools
+have become a vital part of the skill sets of successful marketing professionals. The
+objective of this course is to show you the benefits of using a systematic and analytical
+approach to marketing decision-making and get you familiar with the insights and methods
+you can use to understand marketing problems. The course discusses important marketing
+problems and covers cutting-edge machine learning and data analytics techniques. It uses
+an action-oriented, applied approach to managing marketing problems with data-driven
+tools. Example applications allow students to experience the value of quantitative methods
+in marketing even if they have little or no coding background. After completing this
+course, students will be able to solve marketing analytics problems in a scientific and
+process-driven manner.
+
+
 ### Learning from Big Data, BSc (2021/22, 2022/23)
 
 Every day, millions of consumers voice their opinions in product-review websites, blogs,
@@ -19,18 +37,9 @@ identify and exploit the opportunities that big data sources create.
 
 ### Machine Learning in Marketing: Theory and Applications, MSc (2020/21)
 
-I developed this course for students from quantitative fields such as quantitative
-marketing, OR, economics, statistics and computer science in mind. The course prepares
-students in their last year of study for solving real-world marketing problems using
-modern quantitative methods. The course first reviews theoretical foundations in
-marketing, statistics, and probability theory and then shows how to formalize marketing
-decisions as machine learning problems. It also equips students with the necessary tools
-to implement machine learning pipelines efficiently.
+The course teaches students to solve real-world marketing problems using modern
+quantitative methods. The course first reviews theoretical foundations in marketing,
+statistics, and probability theory and then shows how to formalize marketing decisions as
+machine learning problems. It also equips students with the necessary tools to implement
+machine learning pipelines efficiently.
 
-### Guest Lectures "Machine Learning in Marketing"
-
-My guest lectures (e.g., MIT Sloan School of Management, WHU School of Management) are
-based on my research as well as my industry experience that I have gained from founding
-several machine learning start-ups. I present real-world results derived from field
-experiments that evaluate the economic benefits of promotion personalization based on
-modern machine learning stacks.
