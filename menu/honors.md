@@ -4,8 +4,8 @@ title: Honors and Awards
 ---
 
 
-2023 EMAC–Sheth Foundation Sustainability Research Competition, honorable mention<br>
 2022 Frank M. Bass Dissertation Paper Award, finalist<br>
+2023 EMAC–Sheth Foundation Sustainability Research Competition, honorable mention<br>
 ERIM Research Grant, 15,000 EUR (2022)<br>
 EHI Science Prize 2020, 1st place, category Best Dissertation, 10,000 EUR<br>
 Humboldt Prize 2020, finalist, category Best Dissertation<br>

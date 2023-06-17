@@ -8,7 +8,7 @@ title: Research
 
 Gabel S and Timoshenko A (2022). Product Choice with Large Assortments: A Scalable Deep-Learning Model. _Management Science_, 68(3):1808–1827. [[Journal]](https://doi.org/10.1287/mnsc.2021.3969)
 
-&emsp;&emsp;&emsp;&emsp;2022 Frank M. Bass Dissertation Paper Award, finalist
+&emsp;&emsp;&emsp;&emsp;2022 Frank M. Bass Dissertation Paper Award, finalist.
 
 Gabel S and Guhl D (2022). Comparing the Effectiveness of Rewards and Individually Targeted Coupons in Loyalty Programs. _Journal of Retailing_, 98(3):395–411. [[Journal]](https://doi.org/10.1016/j.jretai.2021.08.001)
 
