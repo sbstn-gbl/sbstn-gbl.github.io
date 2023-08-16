@@ -5,11 +5,11 @@ title: Startups and Industry Experience
 
 
 __Five 01 Inc. (08/2020 – 04/2021)__ <br>
-Developing an AI Engine for retail ad and promotion personalization. <br>
+Building retail media platforms for retailers and retail solution providers. <br>
 Acquired by a global grocery retailer. <br>
 
 __SO1 GmbH (04/2012 – 06/2020)__ <br>
-Building an AI promotion personalization platform. <br>
+Building retail media platforms for retailers and retail solution providers. <br>
 Acquired by a global fintech company. <br>
 Clients included global retailers and retail solution providers such as the Rewe Group,
 the Edeka Group, and Catalina Marketing.
