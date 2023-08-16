@@ -28,9 +28,9 @@ Gabel S and Klapper D (2017). Embedding Products in Latent Attribute Spaces: Imp
 
 Gabel S, Simester D, and Timoshenko A (2023). Retail Media Platforms: Learning Treatment Effects Across Brands. [Working paper]
 
-Gabel S and Ringel D (2023). Basket Representation Learning: The Swiss Army Knife of Market Basket Analysis. [Working paper]
-
 Gabel S, Molitor D, and Spann M (2023). The Effect of an Ad Ban on Retailer Sales: Insights from a Natural Experiment. [Working paper]
+
+Gabel S and Ringel D (2023). The Gestalt of the Shopping Basket. [Working paper]
 
 Gabel S and Guhl D (2022). Coupon Personalization in Retail Promotion Networks: Evidence from 809 Brand Campaigns. [Working paper]
 
