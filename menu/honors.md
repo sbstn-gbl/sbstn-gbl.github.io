@@ -4,11 +4,13 @@ title: Honors and Awards
 ---
 
 
-Veni grant, Dutch Research Council (NWO), 280,000 EUR (2022)
+Veni grant, Dutch Research Council (NWO), 280,000 EUR (2023)
 
-2022 Frank M. Bass Dissertation Paper Award, finalist
+Convergence Resilient Delta, Kick-Starter Grant, 30,000 EUR (2023)
 
 2023 EMAC–Sheth Foundation Sustainability Research Competition, honorable mention
+
+2022 Frank M. Bass Dissertation Paper Award, finalist
 
 ERIM Research Grant, 15,000 EUR (2022)
 
