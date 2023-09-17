@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Research
 ---
 
+
+## Research
 
 ### Journals
 

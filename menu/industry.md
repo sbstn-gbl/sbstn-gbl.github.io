@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Startups and Industry Experience
 ---
 
+
+## Industry
 
 __Five 01 Inc. (08/2020 – 04/2021)__ <br>
 Building retail media platforms for retailers and retail solution providers. <br>
