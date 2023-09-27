@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Teaching
 ---
 
-
-## Teaching
 
 ### Marketing Strategy in the Age of AI, MSc (2023)
 

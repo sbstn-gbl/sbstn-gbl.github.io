@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Education
 ---
 
-
-## Education
 
 __PhD in Marketing__ (summa cum laude) <br>
 10/2016 – 06/2019 <br>

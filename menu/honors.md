@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Funding, Honors, and Awards
 ---
 
-
-## Funding, Honors, and Awards
 
 ### Funding
 
