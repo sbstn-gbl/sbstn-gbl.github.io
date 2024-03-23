@@ -12,6 +12,7 @@ menu:
 - {name: 'Education', path: 'menu', url: 'education.html'}
 
 social:
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/sebastian-gabel-800906168/'}
 - {icon: 'github', link: 'https://www.github.com/sbstn-gbl'}
 - {icon: 'orcid', link: 'https://orcid.org/0000-0003-3522-2263'}
 - {icon: 'envelope', link: 'mailto:gabel@rsm.nl'}
