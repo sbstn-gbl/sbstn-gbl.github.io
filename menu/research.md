@@ -6,6 +6,8 @@ title: Research
 
 ### Journals
 
+Gabel S, Molitor D, and Spann M (2024). The Effect of an Ad Ban on Retailer Sales: Insights from a Natural Experiment. _Marketing Science_ (forthcoming).
+
 Gabel S and Timoshenko A (2022). Product Choice with Large Assortments: A Scalable Deep-Learning Model. _Management Science_, 68(3):1808–1827. [[Journal]](https://doi.org/10.1287/mnsc.2021.3969)<br>
 &emsp;&emsp;2022 Frank M. Bass Dissertation Paper Award, finalist.
 
@@ -22,13 +24,15 @@ Schrage R, Kenning P, Guhl D, and Gabel S (2020). Price Personalization Technolo
 Gabel S and Klapper D (2017). Embedding Products in Latent Attribute Spaces: Implications for Managing Assortments in FMCG Retailing. In _Proceedings of the 46th EMAC Conference, Groningen_ (Finalist EMAC best paper award based on a doctoral dissertation).
 
 
-### Working papers
-
-Gabel S, Molitor D, and Spann M (2024). The Effect of an Ad Ban on Retailer Sales: Insights from a Natural Experiment. [Working paper]
+### Work in progress
 
 Gabel S, Simester D, and Timoshenko A (2024). In-Store Coupon Effectiveness: A Large-Scale Field Experiment. [Working paper]
 
-Gabel S and Ringel D (2023). The Gestalt of the Shopping Basket. [Working paper]
+Krefeld-Schwalb A, Gabel S, and Wei S (2024). Global Evidence on Overlapping Motives for Sustainable Behaviors With Working paper. [Working paper]
 
-Gabel S and Guhl D (2023). Coupon Personalization in Retail Promotion Networks: Evidence from 809 Brand Campaigns. [Working paper]
+Gabel S and Ringel D (2024). Anonymous Shoppers: Zero-Shot Associative Learning for Scalable Purchase Predictions. [Working paper]
+
+State Dependence in Brand Choice: Evidence from 87 Field Experiments With Günter Hitsch, Daniel Guhl, and Joe Kook. Preparing working paper.
+
+
 
