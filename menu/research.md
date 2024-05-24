@@ -26,9 +26,9 @@ Schrage R, Kenning P, Guhl D, and **Gabel S** (2020). Price Personalization Tech
 
 **Gabel S**, Simester D, and Timoshenko A (2024). In-Store Coupon Effectiveness: A Large-Scale Field Experiment. [[Working paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335525)
 
-Wei S, Krefeld-Schwalb A, and **Gabel S** (2024). Global Evidence on Overlapping Motives for Sustainable Behaviors. [Working paper]
+Wei S, Krefeld-Schwalb A, and **Gabel S** (2024). Global Evidence on the Motives for Sustainable Behaviors. [Working paper]
 
-**Gabel S** and Ringel D (2024). Anonymous Shoppers: Zero-Shot Associative Learning for Scalable Purchase Predictions. [Working paper]
+**Gabel S** and Ringel D (2024). Anonymous Shoppers: Associative Learning for Scalable In-Store Purchase Predictions. [Working paper]
 
-State Dependence in Brand Choice: Evidence from Field Experiments. With Günter Hitsch, Daniel Guhl, and Joe Kook. [Working paper]
+Experimental State Dependence. With Günter Hitsch, Daniel Guhl, and Joe Kook. [Working paper]
 
