@@ -6,7 +6,7 @@ title: Research
 
 ### Journals
 
-**Gabel S**, Molitor D, and Spann M (2024). The Effect of an Ad Ban on Retailer Sales: Insights from a Natural Experiment. _Marketing Science_ (forthcoming). [Journal]
+**Gabel S**, Molitor D, and Spann M (2024). The Effect of an Ad Ban on Retailer Sales: Insights from a Natural Experiment. _Marketing Science_ (forthcoming). [[Journal]](https://doi.org/10.1287/mksc.2023.0019)
 
 **Gabel S** and Timoshenko A (2022). Product Choice with Large Assortments: A Scalable Deep-Learning Model. _Management Science_, 68(3):1808–1827. [[Journal]](https://doi.org/10.1287/mnsc.2021.3969)<br>
 &emsp;&emsp;2022 Frank M. Bass Dissertation Paper Award, finalist.
