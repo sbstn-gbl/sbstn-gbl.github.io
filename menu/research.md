@@ -26,7 +26,7 @@ Schrage R, Kenning P, Guhl D, and **Gabel S** (2020). Price Personalization Tech
 
 **Gabel S**, Simester D, and Timoshenko A (2024). In-Store Coupon Effectiveness: A Large-Scale Field Experiment. [[Working paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335525)
 
-Simester D, **Gabel S**, and Timoshenko A (2024). Preparing Your Business for the Retail Media Disruption. [Working paper]
+**Gabel S**, Simester D, and Timoshenko A (2024). Preparing Your Business for the Retail Media Disruption. [Working paper]
 
 Wei S, Krefeld-Schwalb A, and **Gabel S** (2024). Global Evidence on the Motives for Sustainable Behaviors. [[Working paper]](https://doi.org/10.31234/osf.io/syku6)
 
