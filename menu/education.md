@@ -4,15 +4,29 @@ title: Education
 ---
 
 
-__PhD in Marketing__ (summa cum laude) <br>
-10/2016 – 06/2019 <br>
+### PhD in Marketing
+<list>
 Humboldt University of Berlin, School of Business and Economics <br>
-Thesis: [One-to-One Marketing in Grocery Retailing](https://edoc.hu-berlin.de/handle/18452/20877)
+Research visit at Chicago Booth <br>
+10/2016 – 06/2019 <br>
+Thesis: <a href="https://edoc.hu-berlin.de/handle/18452/20877">One-to-One Marketing in Grocery Retailing</a> (summa cum laude) <br>
+</list>
 
-__Master's degree in Economics__ <br>
+### Master's degree in Economics
+<list>
+RWTH Aachen University <br>
+Chalmers University Gothenburg (2007) <br>
 10/2006 – 03/2012 <br>
-RWTH Aachen University, Chalmers University Gothenburg (2007)
+Thesis: A scalable application of the Random Coefficient Aggregate Logit model to complex
+consumer goods markets<br>
+</list>
 
-__Master's degree in Physics__ <br>
+### Master's degree in Physics
+<list>
+RWTH Aachen University <br>
+Chalmers University Gothenburg (2007) <br>
 10/2004 – 03/2010 <br>
-RWTH Aachen University, Chalmers University Gothenburg (2007)
+Thesis: A study of the crystallization kinetics of phase change materials – Designing an optical
+in-situ measurement and conducting isothermal experiments to measure the growth velocity of AgInSbTe <br>
+</list>
+
