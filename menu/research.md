@@ -19,7 +19,7 @@ title: Research
 
 ### Professional and Proceedings (excerpt)
 
-<lit><me>Gabel S</me>, Simester D, and Timoshenko A (2024). How Retailers Became Ad Platforms. <i>Harvard Business Review (digital)</i>. &nbsp; <a href="https://hbr.org">Paper</a></lit>
+<lit><me>Gabel S</me>, Simester D, and Timoshenko A (2024). How Retailers Became Ad Platforms. <i>Harvard Business Review (digital)</i>. &nbsp; <a href="https://hbr.org/2024/06/how-retailers-became-ad-platforms">Paper</a></lit>
 
 <lit>Schrage R, Kenning P, Guhl D, and <me>Gabel S</me> (2020). Price Personalization Technology in Retail Stores: Examining the Role of Users’ Trust. In <i>Proceedings of the 41st International Conference on Information Systems (ICIS)</i>. &nbsp; <a href="https://aisel.aisnet.org/icis2020/implement_adopt/implement_adopt/7">Paper</a></lit>
 
