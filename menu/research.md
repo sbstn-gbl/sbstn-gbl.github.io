@@ -23,11 +23,14 @@ title: Research
 
 <lit>Schrage R, Kenning P, Guhl D, and <me>Gabel S</me> (2020). Price Personalization Technology in Retail Stores: Examining the Role of Users’ Trust. In <i>Proceedings of the 41st International Conference on Information Systems (ICIS)</i>. &nbsp; <a href="https://aisel.aisnet.org/icis2020/implement_adopt/implement_adopt/7">Paper</a></lit>
 
+
 ### Work in progress
 
 <lit><me>Gabel S</me>, Simester D, and Timoshenko A (2024). In-Store Coupon Effectiveness: A Large-Scale Field Experiment. <i>Under review</i> &nbsp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335525">Paper</a></lit>
 
 <lit>Wei S, <me>Gabel S</me>, and Krefeld-Schwalb A (2024). Global Evidence on the Motives for Sustainable Behaviors. <i>Under review</i>. &nbsp; <a href="https://doi.org/10.31234/osf.io/syku6">Paper</a></lit>
+
+<lit>Lemmens A, Roos J, <me>Gabel S</me>, Ascarza E, Bruno H, Gordon B, Israeli A, McDonnell Feit E, Mela C, and Netzer O (2024). Personalization and Targeting: How to Experiment, Learn & Optimize. <i>Under review</i> &nbsp; <a href=" https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4878819">Paper</a></lit>
 
 <lit><me>Gabel S</me>, Guhl D, Hitsch GJ, and Kook K (2024).  Experimental Evidence on Structural State Dependence in Demand. <i>Working paper</i>.</lit>
 
