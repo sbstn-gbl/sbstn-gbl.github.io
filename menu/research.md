@@ -26,11 +26,11 @@ title: Research
 
 ### Work in progress
 
-<lit><me>Gabel S</me>, Simester D, and Timoshenko A (2024). In-Store Coupon Effectiveness: A Large-Scale Field Experiment. <i>Under review</i> &nbsp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335525">Paper</a></lit>
+<lit><me>Gabel S</me>, Simester D, and Timoshenko A (2024). In-Store Coupon Effectiveness: A Large-Scale Field Experiment. <i>Working paper</i> &nbsp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335525">Paper</a></lit>
 
-<lit>Wei S, <me>Gabel S</me>, and Krefeld-Schwalb A (2024). Global Evidence on the Motives for Sustainable Behaviors. <i>Under review</i>. &nbsp; <a href="https://doi.org/10.31234/osf.io/syku6">Paper</a></lit>
+<lit>Wei S, <me>Gabel S</me>, and Krefeld-Schwalb A (2024). Global Evidence on the Motives for Sustainable Behaviors. <i>Working paper</i>. &nbsp; <a href="https://doi.org/10.31234/osf.io/syku6">Paper</a></lit>
 
-<lit>Lemmens A, Roos J, <me>Gabel S</me>, Ascarza E, Bruno H, Gordon B, Israeli A, McDonnell Feit E, Mela C, and Netzer O (2024). Personalization and Targeting: How to Experiment, Learn & Optimize. <i>Under review</i> &nbsp; <a href=" https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4878819">Paper</a></lit>
+<lit>Lemmens A, Roos J, <me>Gabel S</me>, Ascarza E, Bruno H, Gordon B, Israeli A, McDonnell Feit E, Mela C, and Netzer O (2024). Personalization and Targeting: How to Experiment, Learn & Optimize. <i>Working paper</i> &nbsp; <a href=" https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4878819">Paper</a></lit>
 
 <lit><me>Gabel S</me>, Guhl D, Hitsch GJ, and Kook K (2024).  Experimental Evidence on Structural State Dependence in Demand. <i>Working paper</i>.</lit>
 
