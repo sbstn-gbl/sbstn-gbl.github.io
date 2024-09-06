@@ -13,7 +13,7 @@ title: Research
 
 <lit><me>Gabel S</me> and Guhl D (2022). Comparing the Effectiveness of Rewards and Individually Targeted Coupons in Loyalty Programs. <i>Journal of Retailing</i>, 98(3):395–411. &nbsp; <a href="https://doi.org/10.1016/j.jretai.2021.08.001">Paper</a></lit>
 
-<lit><me>Gabel S</me>, Guhl D, and Klapper D (2019). P2V-MAP: Mapping Market Structure for Large Assortments. <i>Journal of Marketing Research</i>, 56(4):557–580. &nbsp; <a href="https://doi.org/10.1177%2F0022243719833631">Paper</a> &nbsp; <a href="https://github.com/sbstn-gbl/p2v-map">Code</a></lit>
+<lit><me>Gabel S</me>, Guhl D, and Klapper D (2019). P2V-MAP: Mapping Market Structure for Large Assortments. <i>Journal of Marketing Research</i>, 56(4):557–580. &nbsp; <me>New:</me> <a href="http://www.product2vec.com">Website</a> &nbsp; <a href="https://doi.org/10.1177%2F0022243719833631">Paper</a> &nbsp; <a href="https://github.com/sbstn-gbl/p2v-map">Code</a></lit>
 <honor>2017 EMAC Best Paper Based on Doctoral Dissertation Award, finalist.</honor>
 
 
@@ -32,7 +32,7 @@ title: Research
 
 <lit>Lemmens A, Roos J, <me>Gabel S</me>, Ascarza E, Bruno H, Gordon B, Israeli A, McDonnell Feit E, Mela C, and Netzer O (2024). Personalization and Targeting: How to Experiment, Learn & Optimize. <i>Working paper</i>. &nbsp; <a href=" https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4878819">Paper</a></lit>
 
-<lit><me>Gabel S</me>, Guhl D, Hitsch GJ, and Kook K (2024).  Experimental Evidence on Structural State Dependence in Demand. <i>Working paper</i>.</lit>
+<lit><me>Gabel S</me>, Guhl D, Hitsch GJ, and Kook K (2024).  Experimental Evidence on Structural State Dependence in Demand. <i>Working paper</i>. &nbsp; <a href="">Paper</a></lit>
 
-<lit><me>Gabel S</me> and Ringel D (2024). Anonymous Shoppers: Associative Learning for Scalable In-Store Purchase Predictions. <i>Working paper</i>.</lit>
+<lit><me>Gabel S</me> and Ringel D (2024). The Market Basket Transformer: A New Foundation Model for Retail. <i>Working paper</i>. &nbsp; <a href="">Paper</a></lit>
 
