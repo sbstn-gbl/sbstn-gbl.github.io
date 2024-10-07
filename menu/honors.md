@@ -6,6 +6,7 @@ title: Funding, Honors, and Awards
 
 ### Funding
 
+<list>Convergence Resilient Delta Initiative, Seed Grant, 325,000 Euros (2024)</list>
 <list>Erasmus Trustfonds grant, 42,500 Euros (2024)</list>
 <list><me>NWO VENI grant</me>, Dutch Research Council (NWO), 280,000 Euros (2023)</list>
 <list>Convergence Resilient Delta Initiative, Kick-Starter Grant, 30,000 Euros (2023)</list>
