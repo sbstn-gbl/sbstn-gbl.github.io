@@ -7,6 +7,7 @@ google-ID: ''
 menu:
 - {name: 'Home', path: '.', url: 'index.html'}
 - {name: 'Research', path: 'menu', url: 'research.html'}
+- {name: 'Grants', path: 'menu', url: 'grants.html'}
 - {name: 'Honors', path: 'menu', url: 'honors.html'}
 - {name: 'Industry', path: 'menu', url: 'industry.html'}
 - {name: 'Teaching', path: 'menu', url: 'teaching.html'}
