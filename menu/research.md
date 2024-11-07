@@ -34,5 +34,5 @@ title: Research
 
 <lit><me>Gabel S</me>, Guhl D, Hitsch GJ, and Kook K (2024).  Experimental Evidence on Structural State Dependence in Demand. <i>Working paper</i>. &nbsp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955593">Paper</a></lit>
 
-<lit><me>Gabel S</me> and Ringel D (2024). The Market Basket Transformer: A New Foundation Model for Retail. <i>Working paper</i>. &nbsp; <a href="">Paper</a></lit>
+<lit><me>Gabel S</me> and Ringel D (2024). The Market Basket Transformer: A New Foundation Model for Retail. <i>Working paper</i>. &nbsp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335141">Paper</a></lit>
 
