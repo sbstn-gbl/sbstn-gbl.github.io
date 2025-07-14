@@ -29,7 +29,12 @@ gem 'jekyll-paginate'
 gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
 
+gem "csv"
+gem "base64"
+
 gem "webrick"
 #gem "rexml"
 
 gem 'jekyll-academicons-svg'
+
+gem "bigdecimal", "~> 3.2"
