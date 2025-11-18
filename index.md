@@ -9,7 +9,7 @@ title: About me
     <img src="/assets/img/portrait-2.png" width="220">
   </div>
 
-  <p>I am an <a href="{{ site.baseurl }}{% link menu/teaching.md %}">assistant
+  <p>I am an <a href="{{ site.baseurl }}{% link menu/teaching.md %}">associate
   professor</a> at the Rotterdam School of Management, Erasmus University and the
   Scientific Advisor at the Schwarz Group.</p>
 
