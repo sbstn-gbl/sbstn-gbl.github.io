@@ -9,7 +9,7 @@ title: About me
     <img src="/assets/img/portrait-2.png" width="220">
   </div>
 
-  <p>I am an <a href="{{ site.baseurl }}{% link menu/teaching.md %}">associate
+  <p>I am an <a href="https://www.rsm.nl/people/sebastian-gabel">associate
   professor</a> at the Rotterdam School of Management, Erasmus University, and I
   serve as Scientific Advisor at the <a href="https://verve.com">Verve Group</a>.</p>
 
