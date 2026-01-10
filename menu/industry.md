@@ -23,7 +23,7 @@ the Edeka Group, and Catalina Marketing.<br>
 ### brand.cision UG
 <list>
 Co-founder and Chief AI Officer, 04/2010 – 04/2012.<br>
-Acquired by a European <me>consulting company</me>. <br>
+Acquired by <me>Analyx</me> (no part of Analytic Partners). <br>
 Marketing mix optimization based on discrete choice models. <br>
 Clients included global manufacturers such as Henkel, Lindt, Bahlsen, Hexal, and Friesland
 Campina.

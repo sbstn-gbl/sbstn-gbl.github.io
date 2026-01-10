@@ -7,11 +7,10 @@ google-ID: ''
 menu:
 - {name: 'Home', path: '.', url: 'index.html'}
 - {name: 'Research', path: 'menu', url: 'research.html'}
-- {name: 'Funding', path: 'menu', url: 'funding.html'}
-- {name: 'Honors', path: 'menu', url: 'honors.html'}
+- {name: 'Honors/Funding', path: 'menu', url: 'funding.html'}
 - {name: 'Industry', path: 'menu', url: 'industry.html'}
-- {name: 'Teaching', path: 'menu', url: 'teaching.html'}
 - {name: 'Education', path: 'menu', url: 'education.html'}
+- {name: 'CV', path: 'menu', url: 'cv.html'}
 
 social:
 - {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=5fqoqisAAAAJ'}
@@ -19,6 +18,8 @@ social:
 - {icon: 'github', link: 'https://www.github.com/sbstn-gbl'}
 - {icon: 'orcid', link: 'https://orcid.org/0000-0003-3522-2263'}
 - {icon: 'envelope', link: 'mailto:gabel@rsm.nl'}
+
+cv_pdf: /assets/cv/gabel-cv-web-2025-12.pdf
 
 pagination:
   next_page: 'Newer'
