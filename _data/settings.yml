@@ -10,7 +10,7 @@ menu:
 - {name: 'Honors/Funding', path: 'menu', url: 'funding.html'}
 - {name: 'Industry', path: 'menu', url: 'industry.html'}
 - {name: 'Education', path: 'menu', url: 'education.html'}
-- {name: 'CV', path: 'menu', url: 'mycv.html'}
+- {name: 'CV', path: 'menu', url: 'cv.html'}
 
 social:
 - {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=5fqoqisAAAAJ'}
